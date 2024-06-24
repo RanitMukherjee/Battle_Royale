@@ -21,7 +21,7 @@
     "socket.io-client": "^4.4.1",
     "throttle-debounce": "^2.3.0",
     "webpack": "^4.43.0",
-    "webpack-dev-middleware": "^3.7.3"
+    "webpack-dev-middleware": "^7.2.1"
   },
   "devDependencies": {
     "@babel/core": "^7.10.2",
