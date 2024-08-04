@@ -19,7 +19,7 @@
     "shortid": "^2.2.16",
     "socket.io": "^4.4.1",
     "socket.io-client": "^4.4.1",
-    "throttle-debounce": "^2.3.0",
+    "throttle-debounce": "^5.0.2",
     "webpack": "^4.43.0",
     "webpack-dev-middleware": "^7.3.0"
   },
